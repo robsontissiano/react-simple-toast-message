@@ -1,5 +1,13 @@
 # React Simple Toast Message
 
-# `npm install`
+## Install
 
-# `npm start`
+```
+npm install
+```
+
+## Run:
+
+```
+npm start
+```
